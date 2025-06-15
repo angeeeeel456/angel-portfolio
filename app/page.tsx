@@ -163,12 +163,9 @@ export default function Portfolio() {
                 <br />
                 <span className="relative">
                   Desig
-                  <span className="text-[#E2AB2D] relative z-20">ner</span>
+                  <span className="text-[#F8EFE0] relative z-20">ner</span>
                 </span>
               </h1>
-              <p className="text-xl text-[#F8EFE0]/80 mt-8 max-w-lg leading-relaxed">
-                Crafting meaningful digital experiences with Mediterranean elegance and thoughtful design.
-              </p>
             </div>
 
             {/* Scroll Indicator */}
@@ -584,7 +581,7 @@ export default function Portfolio() {
         <div className="max-w-7xl mx-auto px-8">
           <div className="flex justify-between items-center">
             <div className="text-2xl font-bold serif-heading">Angel</div>
-            <p className="text-[#003CA6]/60">&copy; 2024 All rights reserved.</p>
+            <p className="text-[#003CA6]/60">&copy; 2025 All rights reserved.</p>
           </div>
         </div>
       </footer>
